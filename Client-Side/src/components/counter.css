@@ -1,0 +1,44 @@
+.counter-container {
+  width: 400px;
+  display: flex;
+  justify-content: center;
+  background-color: rgb(26, 179, 235);
+  padding: 15px;
+  border-radius: 150px;
+  margin-block: 30px;
+}
+
+.counter-container button {
+  width: 150px;
+  height: 100px;
+  margin: 15px;
+  border-radius: 50%;
+  background-color: rgb(252, 252, 252);
+  font-weight: 800;
+  font-size: 30px;
+}
+
+.counter-container h1 {
+  width: 100%;
+}
+ul {
+  padding: 0;
+}
+
+li {
+  list-style: none;
+  font-size: 24px;
+  padding-block: 10px;
+}
+
+.user-list {
+  width: 400px;
+  background-color: rgb(161, 219, 240);
+  padding: 15px;
+  text-align: left;
+}
+
+form > input {
+  padding: 10px;
+  margin-inline: 10px;
+}
